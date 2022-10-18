@@ -14,4 +14,8 @@ public class GitTest {
     public void m2(){
         System.out.println();
     }
+
+    public void m3(){
+        System.out.println();
+    }
 }
